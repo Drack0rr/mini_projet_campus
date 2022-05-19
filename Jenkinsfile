@@ -6,8 +6,8 @@ pipeline {
 		ID_DOCKER = "drackorr"
 		IMAGE_NAME = "mini_projet"
 		IMAGE_TAG = "latest"
-		STAGING = "mini_projet-staging"
-		PRODUCTION = "mini_projet-production"
+		STAGING = "mini-projet-staging"
+		PRODUCTION = "mini-projet-production"
 		PORT = "80"
 	}
 	agent none
